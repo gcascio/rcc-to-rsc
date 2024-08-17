@@ -1,0 +1,23 @@
+.post {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.user {
+    font-size: 0.7rem;
+}
+
+.time {
+    font-size: 0.7rem;
+    opacity: 0.5;
+}
